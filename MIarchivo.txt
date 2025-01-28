@@ -1,2 +1,5 @@
 Hola, soy un archivo
 Ahora agregue un personaje
+Agregue un mapa
+Agregue armas
+Oh no, agregue un bug
